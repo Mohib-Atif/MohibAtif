@@ -15,7 +15,7 @@ Artificial Intelligence and Design Enthusiast with the matter to solve complex d
 <img align="left" alt="C++" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Adobe Illustrator" width="40px" style="padding-right:20px;" src="https://i.postimg.cc/xdk4Bw80/adobe-illustrator.png" />
+<img align="left" alt="Adobe Illustrator" width="40px" style="padding-right:20px;" src="https://i.postimg.cc/bNJH6QsP/adobe-illustrator-1.png" />
 <img align="left" alt="Adobe Photoshop" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <br>
 
