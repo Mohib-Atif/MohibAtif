@@ -1,6 +1,6 @@
 <img src="MohibBanner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Mohib 👋🏼
+<h1 align="center">Hello World!, I'm Mohib 👋🏼</h1>
 
 **`Designing the Future`**
 
