@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="MohibBanner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Mohib 👋🏼
 
@@ -6,8 +6,6 @@
 
 Artificial Intelligence and Design Enthusiast with the matter to solve complex design solutions through unparalleled creativity.<br>
 <br>👨🏼‍🎓 Studying Artificial Intelligence at University of Mnagament & Technology.
-
-### Latest Project:
 
 ---
 
